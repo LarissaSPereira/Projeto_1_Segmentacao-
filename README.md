@@ -21,11 +21,48 @@ Google planilhas, Google slides e Loom.
 
 ## Processamento e Análises 
 
+[**Para visulizar as tabelas clique aqui**]
+
+[**Para ver a ficha técnica completa do projeto clique aqui**]
+
+1- Processamento e preparação da base de dados 
+- Importação dos dados para o Google planilhas com a fórmula IMPORTRANGE
+- Identificação e tratamento de valores nulos com a fórmula COUNTBLANK
+- Identificação e tratamento de valores duplicados através de formatação condicional 
+- Identificação e gerenciamento de dados fora do escopo de análise
+- União das tabelas através da fórmula PROCX e outras 
+- Criação de novas variáveis para dividir os clientes em faixas etárias 
+
+2- Análise exploratória 
+- Agrupamento de dados de acordo com variáveis categóricas através de tabelas dinâmicas 
+- Visualização de variáveis categóricas com gráficos 
+- Calculo de quintis
+
+3- Aplicação de técnica de análise segundo metodologia RFM
+- Aplicação da segmentação com a criação de categorias de clientes conforme os quintis das variáveis recência, frequência e valor monetário, usando a fórmula SE 
+
+4- Criação de dashboard
+
+[**Para visualizar o dashboard clique aqui**]
+- Representação dos dados através de tabela resumo
+- Representação dos dados através de gráficos
+
+5- Apresentação de resultados 
+
+[**Para ver o vídeo de apresentação clique aqui**](https://www.loom.com/share/c6a455bb2d5d4ff1890550acfea8a5ce?sid=0ecffae8-a6b0-4cce-b196-e1103469b62e)
+- Seleção de gráficos e informações relevantes
+- Criação de uma apresentação
+- Apresentação dos resultados com conclusões e recomendações 
 
 ## Resultado e Conclusões 
+Após a segmentação RFM foi possível identificar padrões claros de compra dos clientes, gerando assim insights valiosos sobre quais estratégias de marketing tomar para cada tipo de cliente. A segmentação tornou a tomada de decisões da empresa muito mais acertiva, possibilitando ações de marketing personalizadas e com maior chance de retorno. 
+
 
 ## Limitações e Próximos Passos 
+Houve uma limitação de dados, como forma de pagamento, gênero e dados demográficos, para uma análise mais profunda. Realizar uma análise de coorte seria um próximo passo.
+
 
 ## Links de Interesse 
+
 
 
