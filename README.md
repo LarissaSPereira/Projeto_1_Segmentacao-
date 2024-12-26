@@ -21,11 +21,11 @@ Google planilhas, Google slides e Loom.
 
 ## Processamento e Análises 
 
-[**Para visulizar as tabelas clique aqui**]
+[**Para visulizar o processamento das tabelas clique aqui**](https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/Projeto%201-%20Segmenta%C3%A7%C3%A3o.xlsx)
 
-[**Para ver a ficha técnica completa do projeto clique aqui**]
+[**Para ver a ficha técnica completa do projeto clique aqui**](https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/Ficha%20t%C3%A9cnica-%20Projeto%201%20(Segmenta%C3%A7%C3%A3o).docx)
 
-1- Processamento e preparação da base de dados 
+**1- Processamento e preparação da base de dados** 
 - Importação dos dados para o Google planilhas com a fórmula IMPORTRANGE
 - Identificação e tratamento de valores nulos com a fórmula COUNTBLANK
 - Identificação e tratamento de valores duplicados através de formatação condicional 
@@ -33,21 +33,21 @@ Google planilhas, Google slides e Loom.
 - União das tabelas através da fórmula PROCX e outras 
 - Criação de novas variáveis para dividir os clientes em faixas etárias 
 
-2- Análise exploratória 
+**2- Análise exploratória** 
 - Agrupamento de dados de acordo com variáveis categóricas através de tabelas dinâmicas 
 - Visualização de variáveis categóricas com gráficos 
 - Calculo de quintis
 
-3- Aplicação de técnica de análise segundo metodologia RFM
+**3- Aplicação de técnica de análise segundo metodologia RFM**
 - Aplicação da segmentação com a criação de categorias de clientes conforme os quintis das variáveis recência, frequência e valor monetário, usando a fórmula SE 
 
-4- Criação de dashboard
+**4- Criação de dashboard**
 
-[**Para visualizar o dashboard clique aqui**]
+[**Para visualizar o dashboard clique aqui**](https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/Projeto%201-%20Segmenta%C3%A7%C3%A3o.xlsx)
 - Representação dos dados através de tabela resumo
 - Representação dos dados através de gráficos
 
-5- Apresentação de resultados 
+**5- Apresentação de resultados**
 
 [**Para ver o vídeo de apresentação clique aqui**](https://www.loom.com/share/c6a455bb2d5d4ff1890550acfea8a5ce?sid=0ecffae8-a6b0-4cce-b196-e1103469b62e)
 - Seleção de gráficos e informações relevantes
@@ -63,6 +63,7 @@ Houve uma limitação de dados, como forma de pagamento, gênero e dados demogr�
 
 
 ## Links de Interesse 
+Artigo sobre segmentação RFM: <https://medium.com/maxmilhas-tech/o-que-%C3%A9-rfm-e-como-aplic%C3%A1-lo-ao-seu-time-de-customer-service-b9c35817ed01>
 
 
 
