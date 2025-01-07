@@ -14,9 +14,9 @@ Larissa Silva Pereira
 Google planilhas, Google slides e Loom.
 
 ## Base de Dados
-- Tabela de Clientes (https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/clientes.xlsx)
-- Tabela de Transações (https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/resumo_compras.xlsx)
-- Tabela de Resumo de Compras (https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/transacoes.xlsx)
+- [Tabela de Clientes](https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/clientes.xlsx)
+- [Tabela de Transações](https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/resumo_compras.xlsx)
+- [Tabela de Resumo de Compras](https://github.com/LarissaSPereira/Projeto_1_Segmentacao-/blob/main/transacoes.xlsx)
 
 
 ## Processamento e Análises 
